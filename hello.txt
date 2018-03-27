@@ -5,3 +5,4 @@ branch feature1
 cambio en master
 
 git stash change 1
+stash sample
